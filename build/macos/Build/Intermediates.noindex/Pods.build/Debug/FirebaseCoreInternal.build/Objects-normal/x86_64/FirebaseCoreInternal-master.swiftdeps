@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "b0e54e4a6b1406b0f18b48a138ac0808d0623bd6983b9850105d3181be64a6c5"
+build_start_time: [1674846002, 140211105]
+build_end_time: [1674846009, 902563095]
+inputs:
+  "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift": [1674845982, 145367622]
+  ? "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1674845982, 146334171]
+  ? "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1674845982, 147228717]
+  ? "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1674845982, 147648334]
+  ? "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1674845982, 148324966]
+  "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift": [1674845982, 145700216]
+  "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": [1674845982, 144870758]
+  "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift": [1674845982, 148628234]
+  "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift": [1674845982, 147996902]
+  ? "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1674845982, 146002292]
+  ? "/Users/Ademie/Desktop/chrono/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1674845982, 146764039]

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "28356929587",
+    "project_id": "chrono-f7c8b",
+    "storage_bucket": "chrono-f7c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28356929587:android:d2acd13c967636e2779b46",
+        "android_client_info": {
+          "package_name": "com.example.chrono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28356929587-ul3ubif1so7voetko8bmes523b0ukpci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1RyE7kmqGZfWgluyB3r6o22GfZkhGrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28356929587-ul3ubif1so7voetko8bmes523b0ukpci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28356929587-1a6ss1sihp4msh9pv07agp5fu87v842h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chrono"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

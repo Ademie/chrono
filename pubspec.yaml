@@ -1,0 +1,37 @@
+name: chrono
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  # flutterfire
+  firebase_core: ^2.4.1
+  firebase_auth: ^4.2.5
+  cloud_firestore: ^4.3.1
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  widgetbook: ^2.4.1
+  
+fonts: 
+  family: poppins
+  fonts: 
+    assets: fonts/Poppins-Regular.tff
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
